@@ -25,8 +25,7 @@ i use a raspberry 4 with an msata ssd and docker for HomeAssistant and deConz
 optional:
 - ELUTENG 80mm Lüfter mit L/M/H 3 Geschwindigkeit 5V USB Ventilator Leise 
 - Anker PowerPort Speed 5, 63W 5 Port US
-- Für Raspberry Pi 4 Model B & Raspberry Pi 3 B + Gehäuse 4 Schichten Transparent 
-  as i have 4 raspberry in total
+- Für Raspberry Pi 4 Model B & Raspberry Pi 3 B + Gehäuse 4 Schichten Transparent as i have 4 raspberry in total
 - GHT HDMI KVM Switch USB 4 Port
 - Perixx PERIDUO-212 DE, Mini Tastatur und Maus Set
 - ETEPON 10,1 Zoll Monitor HDMI für Raspberry Pi 4B 1024 x 600 HD LCD Display
@@ -127,8 +126,8 @@ In opposite of some other opinions my netweork is very reliable, quick and stabl
 
 - 1x Fritzbox 7590
 - 7x Fritz Repeater 2400
-  3 connected with wired uplinks
-  4 connected as wireless mesh repeater
+  - 3 connected with wired uplinks
+  - 4 connected as wireless mesh repeater
 - 1x Netgear GS724TPP 24-Port Gigabit Ethernet LAN PoE Switch Smart Managed Pro 
 - 3x NETGEAR GS105PE 5-Port Gigabit Ethernet LAN PoE Switch Smart Managed Plus
 
