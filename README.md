@@ -120,7 +120,7 @@ and i am happy with that. delivered by banggood for around 90€
 
 # WiFi and IT infrastructure
 
-In my former house i had a nice, but complex ubiquity wifi infrastructure
+In my former house i had a nice, but complex ubiquity wifi infrastructure. 
 Now we bought a new house and decide not to create such a complex network and build it on the AVM Fritz products.
 
 In opposite of some other opinions my netweork is very reliable, quick and stable
