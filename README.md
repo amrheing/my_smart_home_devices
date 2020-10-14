@@ -1,6 +1,22 @@
 # A list of my used devices in Smart Home with Home Assistant
 
-i use a raspberry 4 with an msata ssd with docker for HomeAssistant and deConz
+I write this to bring some knowhow to beginers and intrested people. 
+They are a lot of youtube videos available, but a description howto build a SmartHome based on different vendors and techniques are not available.
+
+If you have questions during or after reading, feel free to contact me on facebook messanger or mail
+
+mailto:smarthome_for_all@amrhein.info
+
+Facebook: amrheing
+
+What i love at HomeAssistant is too merge all the differend sensors and actors together. 
+
+Normally we use the HomeAssistant Compagnion App on our iPhones to controll the House.
+In addition we can use the SmartHome sith Siri and Google
+
+Therefore they is a HomePod and 2 Google minis in place.
+
+i use a raspberry 4 with an msata ssd and docker for HomeAssistant and deConz
 
 - Raspberry Pi 4 with 4GB Ram
 - Geekworm Raspberry Pi 4 mSATA Shield
@@ -31,6 +47,8 @@ for the most switches i use shelly devices. https://shelly.cloud
 
 i do not use sensors from shelly. 
 The window sensors are too big and the smoke sensor was not deliverd in time i needed
+
+The H&T (also with usb power) and also the water sensor goes offline when they are not deliver data to increase the battery live. Then there is a offline state in HA what i do not like.
 
 - Shelly 1
 - Shelly 1 PM
@@ -100,7 +118,7 @@ some years ago i always use reolink and sv3c cameras. they was good parts but no
 
 and i am happy with that. delivered by banggood for around 90€
 
-# WiFi amd IT infrastructure
+# WiFi and IT infrastructure
 
 In my former house i had a nice, but complex ubiquity wifi infrastructure
 Now we bought a new house and decide not to create such a complex network and build it on the AVM Fritz products.
