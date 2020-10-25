@@ -37,7 +37,7 @@ when using the msata as usb 3 device it is necessary to use a usb extension cabl
 otherwise they do not work
 
 - deleyCON 1m USB 3.0 Super Speed Verlängerungskabel
-- Sigma Designs Controller Z-Wave Plus USB-Dongle
+- Aeotec AEOEZW090-C Aeon Labs USB Stick
 - ConBee II 
 
 # Shelly
@@ -80,7 +80,8 @@ The controller is installed as Docker container
 
 # zwave
 
-the zwave controller is integrated in Home Assistant
+the ozw controller runs in a docker container
+in HA i use the ozw beta integration
 
 we are living in a big house with 3 floors and a cellar. 
 Not too break the communication is a big step in the mesh networks
